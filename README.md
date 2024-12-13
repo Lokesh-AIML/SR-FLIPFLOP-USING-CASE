@@ -82,7 +82,8 @@ endmodule
  RegisterNumber: 24901149
 
 **RTL LOGIC FOR FLIPFLOPS**
-![Screenshot 2024-12-13 151942](https://github.com/user-attachments/assets/aea147ac-6659-4d9c-a67f-53fed4378404)
+![Screenshot 2024-12-13 151921](https://github.com/user-attachments/assets/39451870-37e5-4c8e-ad7d-7d16c847c6af)
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
